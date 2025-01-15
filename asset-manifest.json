@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/my-intro-react/static/css/main.537988e2.css",
-    "main.js": "/my-intro-react/static/js/main.e845d6e7.js",
+    "main.js": "/my-intro-react/static/js/main.4011f4b9.js",
     "static/js/488.87704aeb.chunk.js": "/my-intro-react/static/js/488.87704aeb.chunk.js",
+    "static/media/jorge.jpg": "/my-intro-react/static/media/jorge.2965d4c764959b22f863.jpg",
     "static/media/desk_work.jpg": "/my-intro-react/static/media/desk_work.071c4e61dc06a548c1b2.jpg",
     "static/media/clinton.jpg": "/my-intro-react/static/media/clinton.d27949be3b65e188ea08.jpg",
+    "static/media/working.jpg": "/my-intro-react/static/media/working.9e60c76ac1d0251df6e2.jpg",
     "static/media/placeimg_200_220_tech (1).jpg": "/my-intro-react/static/media/placeimg_200_220_tech (1).f52846e11301532842e8.jpg",
     "static/media/placeimg_200_220_tech (4).jpg": "/my-intro-react/static/media/placeimg_200_220_tech (4).3f3420b86c4705ddc5ec.jpg",
     "static/media/placeimg_200_220_tech (3).jpg": "/my-intro-react/static/media/placeimg_200_220_tech (3).dd5f6fd5ad18fdeb9e78.jpg",
@@ -13,11 +15,11 @@
     "static/media/linkedin.svg": "/my-intro-react/static/media/linkedin.be2160c5550f84611150.svg",
     "index.html": "/my-intro-react/index.html",
     "main.537988e2.css.map": "/my-intro-react/static/css/main.537988e2.css.map",
-    "main.e845d6e7.js.map": "/my-intro-react/static/js/main.e845d6e7.js.map",
+    "main.4011f4b9.js.map": "/my-intro-react/static/js/main.4011f4b9.js.map",
     "488.87704aeb.chunk.js.map": "/my-intro-react/static/js/488.87704aeb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.537988e2.css",
-    "static/js/main.e845d6e7.js"
+    "static/js/main.4011f4b9.js"
   ]
 }
