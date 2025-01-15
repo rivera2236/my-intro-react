@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-intro-react/static/css/main.537988e2.css",
-    "main.js": "/my-intro-react/static/js/main.58aef7df.js",
+    "main.js": "/my-intro-react/static/js/main.e39c0453.js",
     "static/js/488.87704aeb.chunk.js": "/my-intro-react/static/js/488.87704aeb.chunk.js",
     "static/media/desk_work.jpg": "/my-intro-react/static/media/desk_work.071c4e61dc06a548c1b2.jpg",
     "static/media/clinton.jpg": "/my-intro-react/static/media/clinton.d27949be3b65e188ea08.jpg",
@@ -13,11 +13,11 @@
     "static/media/linkedin.svg": "/my-intro-react/static/media/linkedin.be2160c5550f84611150.svg",
     "index.html": "/my-intro-react/index.html",
     "main.537988e2.css.map": "/my-intro-react/static/css/main.537988e2.css.map",
-    "main.58aef7df.js.map": "/my-intro-react/static/js/main.58aef7df.js.map",
+    "main.e39c0453.js.map": "/my-intro-react/static/js/main.e39c0453.js.map",
     "488.87704aeb.chunk.js.map": "/my-intro-react/static/js/488.87704aeb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.537988e2.css",
-    "static/js/main.58aef7df.js"
+    "static/js/main.e39c0453.js"
   ]
 }
