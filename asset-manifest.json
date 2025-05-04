@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-intro-react/static/css/main.537988e2.css",
-    "main.js": "/my-intro-react/static/js/main.fb75eaa3.js",
+    "main.js": "/my-intro-react/static/js/main.a4e16463.js",
     "static/js/488.87704aeb.chunk.js": "/my-intro-react/static/js/488.87704aeb.chunk.js",
     "static/media/jorge.jpg": "/my-intro-react/static/media/jorge.2965d4c764959b22f863.jpg",
     "static/media/desk_work.jpg": "/my-intro-react/static/media/desk_work.071c4e61dc06a548c1b2.jpg",
@@ -17,11 +17,11 @@
     "static/media/linkedin.svg": "/my-intro-react/static/media/linkedin.be2160c5550f84611150.svg",
     "index.html": "/my-intro-react/index.html",
     "main.537988e2.css.map": "/my-intro-react/static/css/main.537988e2.css.map",
-    "main.fb75eaa3.js.map": "/my-intro-react/static/js/main.fb75eaa3.js.map",
+    "main.a4e16463.js.map": "/my-intro-react/static/js/main.a4e16463.js.map",
     "488.87704aeb.chunk.js.map": "/my-intro-react/static/js/488.87704aeb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.537988e2.css",
-    "static/js/main.fb75eaa3.js"
+    "static/js/main.a4e16463.js"
   ]
 }
